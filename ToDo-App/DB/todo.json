@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Todo 1",
+    "body": "Learning Node.js",
+    "createdAt": "2023-10-01"
+  },
+  {
+    "title": "Todo 2",
+    "body": "Learning Express.js",
+    "createdAt": "2023-10-02"
+  },
+  {
+    "title": "Todo 3",
+    "body": "Learning MongoDB",
+    "createdAt": "2023-10-03"
+  },
+  {
+    "title": "Todo 4",
+    "body": "Learning Postmen",
+    "createdAt": "2025-06-20T18:46:47.925Z"
+  }
+]
